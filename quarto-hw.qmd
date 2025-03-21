@@ -10,6 +10,8 @@ editor: visual
 This project has two raw data files at different scales from a study of #infants, children, and adults watching a series of 7 video clips
 :::
 
+Mcomment: Looks good! Note, the graphs aren't rendering in the final HTML because the code is formatted but not in a code chunk (for a code chunk the ``` would include {r})
+
 ## SOURCE DESCRIPTION
 
 ### FILE 1: auc.csv
